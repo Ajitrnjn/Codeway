@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "answer": " New Delhi "
+  },
+  {
+    "question": "Who wrote 'Srimad Bhagavad Gita'?",
+    "answer": " Maharishi Veda Vyasa "
+  },
+  {
+    "question": "Who is the First President of India ?",
+    "answer": " Dr. Rajendra Prasad "
+  },
+  {
+    "question": "Python is a high-level __________ language known for its simplicity and readability.",
+    "answer": "programming"
+  },
+  {
+    "question": "HTML stands for Hypertext Markup __________.",
+    "answer": "Language"
+  },
+  {
+    "question": "In programming, a __________ is a named sequence of statements that performs a computation.",
+    "answer": "function"
+  },
+  {
+    "question": "CSS is used for __________ the appearance of web pages.",
+    "answer": "styling"
+  },
+  {
+    "question": "JavaScript is a __________-side scripting language used to add interactivity to web pages.",
+    "answer": "client"
+  },
+  {
+    "question": "SQL stands for Structured Query __________.",
+    "answer": "Language"
+  },
+  {
+    "question": "In object-oriented programming, a __________ is a blueprint for creating objects.",
+    "answer": "class"
+  },
+  {
+    "question": "Git is a popular __________ version control system used for tracking changes in source code.",
+    "answer": "distributed"
+  }
+]

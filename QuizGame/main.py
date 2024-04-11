@@ -1,10 +1,9 @@
 # Main function to run the quiz game
-from QuizGame.question_answer import questions
 from QuizGame.quiz_game import QuizGame
 
 
 def main():
-    game = QuizGame(questions)
+    game = QuizGame("./resource/questions.json")
     game.display_welcome_message()
     while True:
         game.present_quiz_questions()

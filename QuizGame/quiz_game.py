@@ -1,9 +1,12 @@
 import random
 
+from QuizGame.quiz_data import QuizData
+
 
 class QuizGame:
-    def __init__(self, questions):
-        self.questions = questions
+    def __init__(self, file_path):
+        quiz_data = QuizData(file_path)
+        self.questions = quiz_data.questions
         self.score = 0
 
     def display_welcome_message(self):
