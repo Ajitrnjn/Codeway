@@ -1,7 +1,5 @@
 # Calculator
 
-[//]: # (# Generic Calculator)
-
 This is a versatile command-line calculator program written in Python. It provides a simple interface for performing arithmetic operations and allows for easy extension with additional operations.
 
 ## Features
@@ -14,7 +12,3 @@ This is a versatile command-line calculator program written in Python. It provid
 ## Usage
 
 1. Clone the repository to your local machine:
-
-[//]: # (```bash)
-
-[//]: # (git clone https://github.com/your-username/generic-calculator.git)
