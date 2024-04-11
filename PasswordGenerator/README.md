@@ -15,10 +15,13 @@ A password generator is a crucial tool for creating secure passwords. This proje
 
 ## Getting Started
 
-### Prerequisites
+To use the Password Generator application, follow these steps:
 
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the `main.py` file using Python: `python main.py`.
+4. Follow the on-screen instructions to add, remove, and view tasks.
+
+### Prerequisites
 - Python 3.x
 
-### Installation
-
-1. Clone the repository:

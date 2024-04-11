@@ -9,6 +9,11 @@ This is a versatile command-line calculator program written in Python. It provid
 - Easily extensible: Add new operations with minimal code changes
 - User-friendly command-line interface
 
-## Usage
+## Getting Started
 
-1. Clone the repository to your local machine:
+To use the Calculator application, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run the `main.py` file using Python: `python main.py`.
+4. Follow the on-screen instructions to add, remove, and view tasks.
