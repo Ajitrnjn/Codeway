@@ -16,7 +16,11 @@ Welcome to the Codeway Projects Repository! This repository contains various Pyt
    - Description: A password generator application allowing users to specify the length and complexity of the password. Generates strong and random passwords for enhanced security.
    - file: `python ./PasswordGenerator/main.py`
 
-4. **Quiz Game**
+4. **Weather Forecast Application**
+    - Description: This project will involve retrieving weather data from an API and presenting it in a user-friendly format. The application will provide current weather information, including temperature, humidity, wind speed, and a short description of the weather conditions.
+    - file: `python ./WeatherForeCast/main.py`
+
+5. **Quiz Game**
    - Description: A quiz game that asks users multiple-choice or fill-in-the-blank questions on a specific topic. Keeps track of scores, provides feedback on correct/incorrect answers, and offers a variety of questions.
    - File: `python ./QuizGame/main.py`
 
